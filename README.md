@@ -1,5 +1,4 @@
 ## Old Version
-- https://github.com/shinydev1992/e-commerce-spring/tree/main
 - issue: everytime connection open close for access database 
 
 ## New Upgrade ( what's new)
